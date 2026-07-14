@@ -1,0 +1,85 @@
+============
+MAIN CREDITS
+============
+
+Character Sprites
+-----------------
+Noraneko Games (https://noranekogames.itch.io/)
+
+Backgrounds
+-----------
+Annako (https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=31476&p=366426#p366426)
+Ayaemo (https://ayaemo.skr.jp/)
+Kimagure After (https://k-after.at.webry.info/)
+Noraneko Games (https://noranekogames.itch.io/)
+Potat0Master (https://potat0master.itch.io/)
+Uncle Mugen (https://lemmasoft.renai.us/forums/viewtopic.php?t=17302)
+
+Music
+-----
+Amacha Music Studio (http://amachamusic.chagasi.com/index.html)
+Music Material (http://musicmaterial.jpn.org/)
+Noiseless World (https://noiselessworld.net/)
+Pocket Sound (https://pocket-se.info/)
+TURBO X (https://turbo-x.com/)
+
+Sound Effects
+-------------
+Sound Bible (http://soundbible.com/)
+Taira Komori (https://taira-komori.jpn.org/freesounden.html)
+
+Sound Bible Sounds
+------------------
+Mike Koenig
+vlammenos
+rutgermuller
+
+Writing & Programming
+---------------------
+Conor Hehr
+
+GUI
+---
+LunaLucid (https://lunalucid.itch.io/)
+
+GUI Modifications
+-----------------
+Conor Hehr
+
+Made With
+---------
+Ren’py
+
+Beta Testing
+------------
+Siawash
+
+Opening And Credits Videos By
+-----------------------------
+Conor Hehr
+
+Editing Software For Videos
+---------------------------
+Hitfilm Express (Opening)
+Adobe Premiere (Credits)
+
+Manual By
+---------
+Conor Hehr
+
+Manual Proofreading
+-------------------
+Conor Hehr
+
+Bug Fixing/Final Adjustments
+----------------------------
+Conor Hehr
+
+===============
+Licensing Info
+===============
+Pleasant Afternoon GUI is licensed under CC-BY Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/
+ Mike Koenig’s sound effects are licensed under CC Attribution 3.0: https://creativecommons.org/licenses/by/3.0/
+Siren sound effect and scream sound effects are licensed under CC Sampling Plus 1.0: https://creativecommons.org/licenses/sampling+/1.0/
+Annako’s backgrounds are licensed under Attribution-ShareAlike 3.0 Unported: https://creativecommons.org/licenses/by-sa/3.0/
+Ayaemo’s backgrounds are licensed under CC BY 2.0: https://creativecommons.org/licenses/by/2.0/

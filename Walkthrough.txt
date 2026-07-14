@@ -1,0 +1,291 @@
+========================
+Vacation Routes - Common
+========================
+
+Gwen - Friendship Ending
+------------------------
+> Any Choice
+> Any Choice
+> Apologize To Her
+> Any Choice
+> Any Choice
+> I Hope We Get Along
+> Hang Out With Gwen
+> Very Cute
+> Hang Out With Gwen
+> Yeah, You Are OR I'm Not Going To Lose To You
+> She's Nice OR She's Cute
+> Bring Gwen's Wallet To Her
+> Where Are You Going?
+> What About You?
+> Follow Her
+> Respect Her Wishes If She Refuses
+> I'll Try
+> Help Get Her Mind Off Things With A Date
+> Because We're Friends
+
+Gwen - Romance Ending
+---------------------
+> Any Choice
+> Any Choice
+> Apologize To Her
+> Any Choice
+> Any Choice
+> I Hope We Get Along
+> Hang Out With Gwen
+> Very Cute
+> Hang Out With Gwen
+> Yes, You Are OR I'm Not Going To Lose To You
+> She's Nice OR She's Cute
+> Oh, Alright OR Is It Important?
+> Of Course I Am
+> Respect Her Privacy
+> Respect Her Wishes If She Refuses
+> Of Course OR I'll Do My Best
+> Help Get Her Mind Off Things With A Date
+> Because I Like You
+
+Gwen - Neutral Ending
+----------------------
+*Follow Friendship Or Romance Up Until Caron Asks What He Should Do For Gwen
+> Leave Gwen Alone
+
+Gwen - Bad Ending
+-----------------
+> Any Choice
+> Any Choice
+> Apologize To Her
+> Any Choice
+> Any Choice
+> I Hope We Get Along
+> Hang Out With Gwen
+> Very Cute
+> Hang Out With Gwen
+> Yes, You Are OR I'm Not Going To Lose To You
+> Not Really
+> Refuse
+> I Didn't Say You Could Run Off
+> I'm Just Curious, To Be Honest
+> Follow Her
+> Force Her To Tell The Truth
+
+Gwen - Worst Ending
+-------------------
+> Any Choice
+> Any Choice
+> Apologize To Her
+> Any Choice
+> Any Choice
+> I Hope We Get Along
+> Hang Out With Gwen
+> Very Cute
+> Hang Out With Gwen
+> Yes, You Are OR I'm Not Going To Lose To You
+> Not Really
+> Refuse
+> I Didn't Say You Could Run Off
+> I'm Just Curious, To Be Honest
+> Follow Her
+> Respect Her Wishes If She Refuses
+> I Don't Know
+> I Don't Know
+
+Rose - Friendship Ending
+------------------------
+> Any Choice
+> Any Choice
+> Any Choice
+> I Like It
+> I Hope So
+> Any Choice
+> Hang Out With Rose
+> Help Her
+> Hang Out With Rose
+> Go With Her
+> Talk To Rose
+> Go With Rose
+> Ask Rose What To Do
+> Yeah
+> She's A Good Friend
+> Not Really
+> Sounds Good
+> Go With Her
+> Any Choice
+> Any Choice
+> How Is It Going?
+> I Should Calm Down
+
+Rose - Romance Ending
+---------------------
+> Any Choice
+> Any Choice
+> Any Choice
+> I Like It
+> I Hope So
+> Any Choice
+> Hang Out With Rose
+> Help Her
+> Hang Out With Rose
+> Go With Her
+> Talk To Rose
+> Go With Rose
+> Check It Out
+> Yeah
+> I Like Her
+> Not Really
+> Can't We Be More?
+> Go With Her
+> Any Choice
+> Any Choice
+> I've Been Worried About You
+> I Should Calm Down
+
+Rose - Bad Ending
+-----------------
+> Any Choice
+> Any Choice
+> Any Choice
+> I Like It
+> I Hope So
+> Any Choice
+> Hang Out With Rose
+> Help Her
+> Hang Out With Rose
+> Go With Her
+> Don't Talk To Her
+> Don't Go With Rose
+> Don't Worry About It
+> Stay Behind
+> I Agree With Velda, Actually
+> It Sure Does
+
+Rose - Worst Ending
+-------------------
+> Any Choice
+> Any Choice
+> Any Choice
+> I Like It
+> I Hope So
+> Any Choice
+> Hang Out With Rose
+> Help Her
+> Hang Out With Rose
+> Go With Her
+> Don't Talk To Her
+> Don't Go With Rose
+> Don't Worry About It
+> Stay Behind
+> I'm Not Sure
+> Not Really
+> No
+> I Don't Want To Go Anywhere
+> Any Choice
+> Any Choice
+> Don't Be An Idiot
+> I'm Still Pissed
+
+Velda - Friendship Ending
+------------------------
+> Introduce Self
+> Do As You're Told
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+> Hang Out With Velda
+> I Thought We Were Friends
+> Hang Out With Velda
+> I Want To Know More About You
+> Promise Not To Tell
+> It's Fine
+> I Want Us To Be Friends
+> Nothing Important
+> Try To Fight OR Do Nothing
+> Any Choice
+> I'm Grateful OR I'm Glad It Was Her
+
+Velda - Romance Ending
+---------------------
+> Introduce Self
+> Do As You're Told
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+> Hang Out With Velda
+> I Thought We Were Friends
+> Hang Out With Velda
+> I Want To Know More About You
+> Promise Not To Tell
+> I Like Working With Her
+> Because I Like You
+> How Cute You Are OR How Cool You Are
+> Think About Velda
+> Any Choice
+> I'm Grateful OR I'm Glad It Was Her
+
+Velda - Bad Ending
+-----------------
+> Introduce Self
+> Do As You're Told
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+> Hang Out With Velda
+> I Thought We Were Friends
+> Hang Out With Velda
+> I Want To Know More About You
+> I Might Tell Daniel
+> I Don't Like It
+> I Want To Know More About My Co-Worker
+> How Rude You Are
+
+Velda - Worst Ending
+-------------------
+> Introduce Self
+> Do As You're Told
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+> Hang Out With Velda
+> I Thought We Were Friends
+> Hang Out With Velda
+> I Want To Know More About You
+> I Might Tell Daniel
+> I Don't Like It
+> I Want To Know More About My Co-Worker
+> Nothing Important
+> Try To Fight OR Do Nothing
+> Any Choice
+> I Didn't Want To Get Caught Up In This
+
+Common - Loner Ending
+---------------------
+> Don't Worry About Her
+> Tell Her To Go Away OR Stay In Bed
+> Tell Her To Watch Where She's Going OR Don't Say Anything
+> I Don't Like It OR I Don't Know
+> I Don't Really Care OR ...
+> Do You Always Eat Alone OR Don't Bump Into Me Again
+> Spend Time By Self
+> Spend Time By Self
+
+==========
+Life Route
+==========
+*Unlocked after getting either Friendship or Romance endings with all three girls
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+> Any Choice
+
+============
+Future Route
+============
+> Let's Try This For True Ending
+> Let's Not For Neutral Ending
+
+
